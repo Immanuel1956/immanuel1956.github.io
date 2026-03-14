@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "GoobySMP",
+    "description": "",
+    "home_page_url": "https://immanuel1956.github.io",
+    "feed_url": "https://immanuel1956.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://immanuel1956.github.io/media/website/goobysmp-2.png",
+    "author": {
+        "name": "GoobySMP Team"
+    },
+    "items": [
+    ]
+}
